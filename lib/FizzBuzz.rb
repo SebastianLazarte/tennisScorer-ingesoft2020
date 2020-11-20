@@ -16,4 +16,7 @@ class FizzBuzz
     def es_multiplo_de_n(numero,divisor)
         return numero%divisor==0
     end
+def 2es_multiplo_de_n(numero,divisor)
+        return numero%divisor==0
+    end
 end
